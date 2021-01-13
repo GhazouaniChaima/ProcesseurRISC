@@ -1,0 +1,727 @@
+m255
+o
+cModel Technology
+dC:\Modeltech_5.5e\examples
+Ealu
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590951165
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/alu.vhd
+l0
+L17
+VM:0ehdGYQehWT@3<hAQnV2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work alu M:0ehdGYQehWT@3<hAQnV2
+l30
+L25
+VdmgAI[]g6^4T3_YU0gT340
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee std_logic_unsigned
+M2 ieee std_logic_arith
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Aprocalu
+DE work alu U`L`PZ@`N14gm<C4eN_a60
+l17
+L16
+V3<LeVA0FeHQI47bCiCP?L1
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee numeric_std
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-work work -87 -explicit
+tExplicit T
+Ealu2
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590948342
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/alu2.vhd
+l0
+L5
+VXThNiEjV8]nYTWi]A<4>40
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work alu2 XThNiEjV8]nYTWi]A<4>40
+l17
+L14
+V]0IU;nT15KY88zC6@aGBO1
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee std_logic_unsigned
+M2 ieee std_logic_arith
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Ealu2_test
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590948492
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/alu_tb2.vhd
+l0
+L5
+VgoDK@4z7UOIJTJSFSNj2b3
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch6
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DE work alu2 XThNiEjV8]nYTWi]A<4>40
+DE work alu2_test goDK@4z7UOIJTJSFSNj2b3
+l26
+L8
+V2oIC`QLD_ekU9C;04_P`^3
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee std_logic_unsigned
+M2 ieee std_logic_arith
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Ealu_dummy
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591054176
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/proc_test.vhd
+l0
+L1155
+V9XRM?BM_K6[R?zPoFPGi82
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work alu_dummy 9XRM?BM_K6[R?zPoFPGi82
+l1167
+L1163
+VUSQgPjWTE7IUR1beRh;=D0
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Ealu_tb
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590946433
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/alu_tb.vhd
+l0
+L5
+Vn]HKgb;PYT8O>W37[JhL:1
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DE work alu ^INbOd5@QzhI>N63O=D=10
+DE work alu_tb n]HKgb;PYT8O>W37[JhL:1
+l26
+L8
+Vl5NW<U2DVne@4o;@0WXK`0
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee std_logic_arith
+M2 ieee numeric_std
+M1 ieee std_logic_unsigned
+o-work work -87 -explicit
+tExplicit T
+Ealu_test
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590947029
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/alu_tb.vhd
+l0
+L5
+VXY7No[C:32iAClQZSTe]^1
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch6
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DE work alu M:0ehdGYQehWT@3<hAQnV2
+DE work alu_test XY7No[C:32iAClQZSTe]^1
+l26
+L8
+VGFPCo8gM]Zc7kd8?`7oHl2
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee std_logic_unsigned
+M2 ieee std_logic_arith
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DE work alu M:0ehdGYQehWT@3<hAQnV2
+DE work alu_test UEWA@4YVPaG4@F5`dh[km3
+l26
+L8
+VI;RVElz8:^Rkj2D]T?NOQ3
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee std_logic_arith
+M2 ieee std_logic_unsigned
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Ecompteur
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1588347227
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/compteur_4bit.vhd
+l0
+L5
+VMN08WdPX[[:2@gNCl;Q<f2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work compteur MN08WdPX[[:2@gNCl;Q<f2
+l12
+L10
+VZX`oR8^URI_alXKnd7F=b0
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Econtrol
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591210851
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/control_unit.vhd
+l0
+L37
+VD>LS];5U4Y7Icd4W?C7g02
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work control D>LS];5U4Y7Icd4W?C7g02
+l65
+L60
+V7A8[nJ1CcXdLV^<9W8nWz0
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Econtrol_dummy
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591054176
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/proc_test.vhd
+l0
+L1378
+VaQDEfe7alG9jNY::hHh_c0
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work control_dummy aQDEfe7alG9jNY::hHh_c0
+l1405
+L1401
+V8cN>Dg:j1bo2S2YD;YBGL2
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Econtrol_test
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590540543
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/control_unit_tb.vhd
+l0
+L5
+VznI9d@];0f5j`dmd6^5>71
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work control D>LS];5U4Y7Icd4W?C7g02
+DE work control_test znI9d@];0f5j`dmd6^5>71
+l56
+L8
+V_>@58X=QYjBn]6d>Y7heG3
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work work -87 -explicit
+tExplicit T
+Eincrementeur
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590604722
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/incrementeur.vhd
+l0
+L5
+VMoaa5oiOZROh^PQ2;;QIm2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work incrementeur Moaa5oiOZROh^PQ2;;QIm2
+l12
+L10
+V_X^1oWOY3zGbC:BD2VCn>0
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Eincrementeur_tb
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590605149
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/incrementeur_tb.vhd
+l0
+L4
+VjhMgKoJEagCfoE0zLaJSh2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DE work incrementeur Moaa5oiOZROh^PQ2;;QIm2
+DE work incrementeur_tb jhMgKoJEagCfoE0zLaJSh2
+l17
+L7
+V9dDXm`=[=_l6dJ7HYKejW3
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Einstr_reg
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590609934
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/regs.vhd
+l0
+L28
+VoCX`KgOSG3KkQK1;V0;3b1
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work instr_reg oCX`KgOSG3KkQK1;V0;3b1
+l46
+L44
+V9JW@3VQB]E[@:dRGl1P0Q0
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Einstr_reg_dummy
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591054176
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/proc_test.vhd
+l0
+L4
+V62@z]Rh6agL0fdORQmRHj2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work instr_reg_dummy 62@z]Rh6agL0fdORQmRHj2
+l21
+L17
+VBmJ2=RC0PNX]mAL3aWiWV1
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Einstr_reg_test
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1589946427
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/regs_tb.vhd
+l0
+L5
+VXi[;7^6Sz5WE^7?T^<e5m2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work instr_reg oCX`KgOSG3KkQK1;V0;3b1
+DE work instr_reg_test Xi[;7^6Sz5WE^7?T^<e5m2
+l36
+L8
+VkRbJAjD4=m9H39zO>k:<F0
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work work -87 -explicit
+tExplicit T
+Emux2v1
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591045644
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/mux2v1.vhd
+l0
+L4
+V6i]FWMA?f;j92ISEzKG[E2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work mux2v1 6i]FWMA?f;j92ISEzKG[E2
+l10
+L9
+VJl2lX@:b542KB]Rz>1:D^1
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Emux2v1_tb
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591045656
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/mux2v1_tb.vhd
+l0
+L4
+VTX@JNMe0Cfamk>];XGnGz0
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work mux2v1 6i]FWMA?f;j92ISEzKG[E2
+DE work mux2v1_tb TX@JNMe0Cfamk>];XGnGz0
+l19
+L7
+VZ3A42M]iD9K7h;XKJ^`Ll3
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Emux3v1
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591042366
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/mux3v1.vhd
+l0
+L4
+VLl=V69;KEeKzS@cG<[EI80
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work mux3v1 Ll=V69;KEeKzS@cG<[EI80
+l14
+L13
+V9JC>[_GB0lk]HbHd<TAlk3
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Emux3v1_tb
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590602628
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/mux3v1_tb.vhd
+l0
+L4
+VVSnfD8WNc=fL>f:Y5C]ha3
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DE work mux3v1 Ll=V69;KEeKzS@cG<[EI80
+DE work mux3v1_tb VSnfD8WNc=fL>f:Y5C]ha3
+l20
+L7
+V0F?QF=CIUIZ[abi4FFzQW0
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Eproc
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591047713
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/proc.vhd
+l0
+L18
+Vl_`[<9]6JHhUAfEX6BbQA2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DE work mux3v1 Ll=V69;KEeKzS@cG<[EI80
+DE work incrementeur Moaa5oiOZROh^PQ2;;QIm2
+DE work alu M:0ehdGYQehWT@3<hAQnV2
+DE work reg mgV?dR[5]KiIaaP1S10eV0
+DE work mux2v1 6i]FWMA?f;j92ISEzKG[E2
+DE work reg_file =8gR?UV7MDU8_Se8G9lMZ1
+DE work instr_reg oCX`KgOSG3KkQK1;V0;3b1
+DE work status_reg HQc2hPhCL;P:d_<9h6Al52
+DE work control D>LS];5U4Y7Icd4W?C7g02
+DE work proc l_`[<9]6JHhUAfEX6BbQA2
+l146
+L28
+VTB7[li@lAagS:CQ=]PaRe3
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee std_logic_unsigned
+M2 ieee std_logic_arith
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Eproc_test
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591054176
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/proc_test.vhd
+l0
+L1703
+V;X[ASg0D7]TI]6LVEX<NL0
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DE work proc l_`[<9]6JHhUAfEX6BbQA2
+DE work proc_test ;X[ASg0D7]TI]6LVEX<NL0
+l1728
+L1706
+VCMCYS]J3Nij>B?569V;Xj3
+OE;C;5.5e;15
+M3 ieee std_logic_1164
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-work work -87 -explicit
+tExplicit T
+Ereg
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590603732
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/reg.vhd
+l0
+L5
+VmgV?dR[5]KiIaaP1S10eV0
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work reg mgV?dR[5]KiIaaP1S10eV0
+l13
+L12
+VVEciCdzJK:VZAT=8MCfSz0
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work work -87 -explicit
+tExplicit T
+Ereg_file
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590609934
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/regs.vhd
+l0
+L159
+V=8gR?UV7MDU8_Se8G9lMZ1
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work reg_file =8gR?UV7MDU8_Se8G9lMZ1
+l178
+L173
+VA>:P;=>>4KEf9ZIOS6g_B1
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee std_logic_unsigned
+M2 ieee std_logic_arith
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Ereg_file_dummy
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591054176
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/proc_test.vhd
+l0
+L651
+V=X9lLzD[?k158zNE:YCF`3
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work reg_file_dummy =X9lLzD[?k158zNE:YCF`3
+l673
+L669
+VlS1@BO@YAB1;^lT35iW0`3
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Ereg_file_test
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1589946427
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/regs_tb.vhd
+l0
+L285
+V^8EzUzI9O;aHRai>LLXUP0
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DE work reg_file =8gR?UV7MDU8_Se8G9lMZ1
+DE work reg_file_test ^8EzUzI9O;aHRai>LLXUP0
+l326
+L288
+VP`]6GX44_oB8:TCTfD<IJ1
+OE;C;5.5e;15
+M4 ieee std_logic_1164
+M3 ieee std_logic_arith
+M2 ieee std_logic_unsigned
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
+Ereg_tb
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590604485
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/reg_tb.vhd
+l0
+L4
+V7GJY=0cfmIZH:`ng?1]OR2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DE work reg mgV?dR[5]KiIaaP1S10eV0
+DE work reg_tb 7GJY=0cfmIZH:`ng?1]OR2
+l17
+L7
+V61Nb6S6cF=elY81bcZE?i2
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work work -87 -explicit
+tExplicit T
+Estatus_reg
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1590609934
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/regs.vhd
+l0
+L95
+VHQc2hPhCL;P:d_<9h6Al52
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work status_reg HQc2hPhCL;P:d_<9h6Al52
+l106
+L104
+VgT@6o_=HLTPlPe?>HB@An3
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Estatus_reg_dummy
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1591054176
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/proc_test.vhd
+l0
+L338
+VR20hzBGF?>m2o:L3Zhl8U0
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work status_reg_dummy R20hzBGF?>m2o:L3Zhl8U0
+l351
+L347
+V;^n98]B>iT;Q]ZcB7@K:12
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Estatus_reg_test
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1589944533
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/satusRegtb.vhd
+l0
+L5
+VOQ@;=?N`b>R^z=E5;P0dD2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarch
+DE work status_reg HQc2hPhCL;P:d_<9h6Al52
+DE work status_reg_test OQ@;=?N`b>R^z=E5;P0dD2
+l28
+L8
+V>d<HA0k]VmOUNY@OQVRRm3
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee std_logic_arith
+o-work work -87 -explicit
+tExplicit T
+Etestcomp
+DP ieee numeric_std JEAJIQRRkDSZF:PY1:8aa1
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1588347263
+dC:\Users\chaima\Documents\projets\vhdl\PojetRISC
+FC:/Users/chaima/Documents/projets/vhdl/PojetRISC/work/test_copteur4bit.vhd
+l0
+L6
+V_ia5VGd@Y=;l6TgUEQcfB3
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Aarchtest
+DE work compteur MN08WdPX[[:2@gNCl;Q<f2
+DE work testcomp _ia5VGd@Y=;l6TgUEQcfB3
+l18
+L9
+V<hi0D7PT>a[eLd2P<dUH[2
+OE;C;5.5e;15
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work -87 -explicit
+tExplicit T
