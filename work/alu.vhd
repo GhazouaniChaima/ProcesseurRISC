@@ -60,7 +60,7 @@ else
 
 in1 <= i1(14 downto 0);
 in2 <= i2(14 downto 0);
-num <=('0'&in1) + ('0'&in2); --16 bit mte3 resultat de l'addition (cin)
+num <=('0'&in1) + ('0'&in2); --16 bit resultat de l'addition (cin)
 
 V <= C xor num(15) when (op="0100")else 
      (i1(15)and (not i2(15)) and (not result(15))) or ((not i1(15))and i2(15)and result(15)) when (op="0101") 
